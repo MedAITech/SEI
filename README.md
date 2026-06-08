@@ -2,10 +2,6 @@
 
 This repository contains the official implementation of **On Revisiting Entropy for Identifying Mislabeled Images**, accepted by ICML 2026.
 
-<p align="center">
-  <img src="./liuchengtu.png" width="900" alt="Framework of On Revisiting Entropy for Identifying Mislabeled Images">
-</p>
-
 ## Environment
 
 The code was tested with the following key packages:
