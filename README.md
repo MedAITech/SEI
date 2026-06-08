@@ -4,7 +4,7 @@ This repository contains the official implementation of **On Revisiting Entropy 
 
 ## Environment
 
-The code was tested with the following key packages:
+The code was run with the following key packages:
 
 ```text
 torch == 2.0.0
